@@ -1,0 +1,159 @@
+.cart-items {
+    margin: 30px auto;
+    width: 90%;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: orange;
+}
+
+.cart-items-quantity {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+}
+
+.length {
+    border: 1px solid white;
+    border-radius: 25px;
+    width: 40px;
+    text-align: center;
+}
+
+.cart-items-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+}
+
+.cart-items-image {
+    width: 120px;
+    height: 120px;
+    border: 3px solid black;
+    border-radius: 8px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.cart-items-add {
+    width: 90px;
+    margin-left: 15px;
+    font-weight: 700;
+    border: none;
+    border-radius: 3px;
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+    background-color: green;
+}
+.cart-items-remove {
+    width: 90px;
+    margin-left: 15px;
+    font-weight: 700;
+    border: none;
+    border-radius: 3px;
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+    background-color: red;
+}
+
+.heading {
+    margin-left: 10px;
+}
+
+.cart-total {
+    margin: 30px auto;
+    width: 30%;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+.cart-total-button {
+    margin: 30px auto;
+    height: 70px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.btn {
+    border: 2px solid green;
+    width: 140px;
+    height: 53px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.tick-img {
+    width: 70px;
+    height: 70px;
+    margin-left: 200px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+.modal-footer {
+    justify-content: center;
+}
+
+.footer-btn {
+    width: 110px;
+    height: 50px;
+    background-color: red;
+    color: aliceblue;
+    border-radius: 10px;
+}
+
+.cart {
+    display: flex;
+}
+
+.cart-item-list {
+    border: 1px solid black;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.cart-input {
+    width: 400px;
+    height: 70px;
+    display: flex;
+    border: 1px solid;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 30px auto;
+}
+
+.input {
+    width: 280px;
+    height: 50px;
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.input-btn {
+    padding: 3px;
+    width: 80px;
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: forestgreen;
+    color: aliceblue;
+}
+
+.home-btn {
+    padding: 10px;
+    width: 200px;
+    height: 50px;
+    border: 2px solid;
+    border-radius: 10px;
+    background-color: black;
+    color: aliceblue;
+}
